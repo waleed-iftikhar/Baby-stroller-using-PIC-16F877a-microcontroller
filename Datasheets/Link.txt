@@ -1,0 +1,37 @@
+For report Writting
+http://www.consumeraffairs.com/baby-stroller-recalls
+
+
+
+
+
+Electric Brakes
+
+http://www.warnerelectric.com/basic-design-brake-products.asp
+
+
+Capacitive sensor
+http://playground.arduino.cc/Main/CapacitiveSensor?from=Main.CapSense
+
+
+Proximity Sensor
+http://www.electro-labs.com/proximity-sensors-applications/
+
+
+
+
+Flexiforce Pressure Sensor - 100lbs
+https://www.sparkfun.com/products/8685
+
+https://www.sparkfun.com/products/11207
+
+
+
+
+Load Sensor
+https://www.sparkfun.com/products/10245
+
+
+Bluetooth
+SparkFun Bluetooth Mate Gold
+https://www.sparkfun.com/products/12580
